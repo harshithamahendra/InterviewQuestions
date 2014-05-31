@@ -1,6 +1,5 @@
 import java.util.*;
 import java.io.*;
-
 public class SubstringAddition {
 	public static void main(String[] args) throws NumberFormatException, IOException
 	{
